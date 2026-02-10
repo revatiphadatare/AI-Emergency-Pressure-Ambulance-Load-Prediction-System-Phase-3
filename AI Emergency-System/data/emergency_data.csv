@@ -1,0 +1,8 @@
+city,latitude,longitude,hour,emergency_calls,ambulances_available
+Pune,18.52,73.85,9,30,25
+Pune,18.52,73.85,10,40,22
+Pune,18.52,73.85,11,55,18
+Pune,18.52,73.85,12,75,14
+Mumbai,19.07,72.87,9,120,45
+Mumbai,19.07,72.87,10,140,40
+Mumbai,19.07,72.87,11,160,35
